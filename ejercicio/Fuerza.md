@@ -7,3 +7,8 @@ se enfoca en aumentar la capacidad de los músculos para generar fuerza a travé
 - Aumenta la masa muscular y la fuerza
 - Mejora la salud ósea
 - Acelera el metabolismo
+
+# Instrucciones
+1. Mantén una técnica adecuada.
+2. Comienza con un calentamiento. 
+3. Aumenta gradualmente el peso.
