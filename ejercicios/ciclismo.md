@@ -7,3 +7,8 @@ El ciclismo es un ejercicio aeróbico de bajo impacto que consiste en montar una
 - Mejora la salud cardiovascular
 - Aumenta la resistencia y tonifica los músculos
 - Reduce el estrés y mejora el estado de ánimo
+
+# Instrucciones
+1. Ajusta la bicicleta correctamente.
+2. Mantén una postura adecuada.
+3. Controla el ritmo y la respiración.
