@@ -12,3 +12,7 @@ Es una disciplina física, mental y espiritual originaria de la India, que combi
 1. Mantén la respiración controlada
 2. Escucha a tu cuerpo
 3. Enfócate en la alineación
+
+# Consejos
+- Practica con regularidad.
+- No te exijas demasiado al principio.
