@@ -12,3 +12,7 @@ El boxeo es un deporte de combate en el que dos personas se enfrentan utilizando
 1. Mantén una postura sólida
 2. Salto de cuerda.
 3. Entrenamiento de abdominales.
+
+# Consejos
+- Mantén una guardia firme.
+- No ignores las señales de fatiga o lesión
