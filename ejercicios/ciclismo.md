@@ -12,3 +12,7 @@ El ciclismo es un ejercicio aeróbico de bajo impacto que consiste en montar una
 1. Ajusta la bicicleta correctamente.
 2. Mantén una postura adecuada.
 3. Controla el ritmo y la respiración.
+
+# Consejos
+- Hidrátate bien.
+- Presta atención al terreno y al tráfico.
