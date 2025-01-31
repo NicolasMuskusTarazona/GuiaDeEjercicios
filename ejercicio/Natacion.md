@@ -12,3 +12,7 @@ es un ejercicio acuático que implica el uso del cuerpo para desplazarse en el a
 1. Mantén una buena postura en el agua.
 2. Controla la respiración.
 3. Comienza con un calentamiento adecuado.
+
+# Consejos
+-  Varía tus estilos de nado.
+- Evita nadar en condiciones inseguras.
