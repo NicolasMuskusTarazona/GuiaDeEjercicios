@@ -12,3 +12,7 @@ El CrossFit es un entrenamiento de alta intensidad que combina ejercicios de lev
 1. Calienta antes de empezar.
 2. Mantén una técnica adecuada.
 3. Escucha a tu cuerpo.
+
+# Consejos
+- Varía tus entrenamientos.
+- No ignores el descanso.
