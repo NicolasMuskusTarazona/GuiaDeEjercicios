@@ -12,3 +12,7 @@ se refiere a los movimientos y estiramientos que buscan aumentar el rango de mov
 1. Realiza estiramientos de forma lenta y controlada.
 2. Mantén la respiración constante.
 3. No rebotes al estirar.
+
+# Consejos
+- Hazlo de manera regular.
+- No te excedas.
