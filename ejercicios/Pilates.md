@@ -7,3 +7,8 @@ Es un sistema de ejercicio que se enfoca en mejorar la flexibilidad, la postura,
 - Mejora la postura y la alineación.
 - Aumenta la flexibilidad.
 - Fortalece el core y mejora el equilibrio.
+
+# Instrucciones
+1. Mantén el control en todo momento.
+2. Concéntrate en la respiración.
+3. Activa el core.
