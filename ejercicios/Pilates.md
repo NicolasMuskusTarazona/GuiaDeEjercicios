@@ -12,3 +12,7 @@ Es un sistema de ejercicio que se enfoca en mejorar la flexibilidad, la postura,
 1. Mantén el control en todo momento.
 2. Concéntrate en la respiración.
 3. Activa el core.
+
+# Consejos
+- Escucha a tu cuerpo.
+- Evita movimientos bruscos.
