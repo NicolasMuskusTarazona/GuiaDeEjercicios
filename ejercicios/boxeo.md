@@ -7,3 +7,8 @@ El boxeo es un deporte de combate en el que dos personas se enfrentan utilizando
 -Fortalece los músculos
 -Aumenta la resistencia
 -Mejora la coordinación y agilidad
+
+# Instrucciones
+1. Mantén una postura sólida
+2. Salto de cuerda.
+3. Entrenamiento de abdominales.
