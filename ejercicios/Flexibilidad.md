@@ -7,3 +7,8 @@ se refiere a los movimientos y estiramientos que buscan aumentar el rango de mov
 - Mejora el rango de movimiento.
 - Reduce el riesgo de lesiones
 - Alivia la tensión muscular
+
+# Instrucciones
+1. Realiza estiramientos de forma lenta y controlada.
+2. Mantén la respiración constante.
+3. No rebotes al estirar.
